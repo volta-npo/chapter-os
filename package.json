@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/chapter-os.git"
+    "url": "git+https://github.com/volta-npo/41-chapter-os.git"
   },
-  "homepage": "https://volta-npo.github.io/chapter-os/",
+  "homepage": "https://volta-npo.github.io/41-chapter-os/",
   "bugs": {
-    "url": "https://github.com/volta-npo/chapter-os/issues"
+    "url": "https://github.com/volta-npo/41-chapter-os/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
