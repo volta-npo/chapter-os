@@ -1,0 +1,35 @@
+{
+  "name": "@volta-oss/chapter-os",
+  "version": "3.0.0",
+  "private": false,
+  "type": "module",
+  "description": "An operating manual and dashboard blueprint for launching a Volta-style student chapter.",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 4173",
+    "validate": "node --test",
+    "certify": "node --test test/v3.test.js",
+    "test:all": "node --test"
+  },
+  "keywords": [
+    "digital-equity",
+    "local-first",
+    "oss",
+    "student agency operations",
+    "v3-production",
+    "volta"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volta-npo/41-chapter-os.git"
+  },
+  "homepage": "https://volta-npo.github.io/41-chapter-os/",
+  "bugs": {
+    "url": "https://github.com/volta-npo/41-chapter-os/issues"
+  },
+  "author": "Volta OSS Division <volta.npo@gmail.com>",
+  "engines": {
+    "node": ">=20"
+  }
+}
