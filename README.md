@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/chapter-os/) · [Report an issue](https://github.com/volta-npo/chapter-os/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/41-chapter-os/) · [Report an issue](https://github.com/volta-npo/41-chapter-os/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -182,7 +182,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/chapter-os.git
+git clone https://github.com/volta-npo/41-chapter-os.git
 cd 41-chapter-os
 npm install
 npm test
